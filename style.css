@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+
+}
+nav{
+  text-align: center;
+}
+
+a {
+  background-color: grey;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+img {
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  
+}
+
+figcaption {
+  text-align: center;
+}
+
+#paragraph {
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+
+  background-color: red;
+}
+
+.block {
+  float: left;
+  width: 25%;
+  background-color: red;
+  text-align: center;
+}
+
+
+
+
+
